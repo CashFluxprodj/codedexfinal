@@ -4,7 +4,7 @@ final restruant project
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Pizza pizza</title>
+        <title>pIzza pizza</title>
     </head>
     <body>
         <header>
